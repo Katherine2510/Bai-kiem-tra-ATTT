@@ -1,6 +1,8 @@
 # Bai-kiem-tra-ATTT
-Bao gom code 3 bai he mat
+Bao gồm 3 bài code hệ mật
+
 Kết quả chạy chương trình của các hệ mật
+
 #Hệ mật RSA------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/79137357/197389724-0ddf23e5-9e5b-43bd-88fb-f634ec1725be.png)
 
